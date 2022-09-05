@@ -12,4 +12,8 @@ we now have our DEX and it has all the token reserve available. The contract has
 - `buy`: The user can send ether and get tokens in exchange
 - `sell`: The user can decide to send tokens to get ether back
 
+# MetaMask ScreenShots
 ![Metamask SS](./asset/Screenshot%202022-09-05%20at%205.34.38%20PM.png)
+
+# EtherScan ScreenShots
+![EtherScan SS](./asset/Screenshot%202022-09-05%20at%205.37.23%20PM.png)
